@@ -1,16 +1,17 @@
-# torch_app
+Torch App is a lightweight yet feature-rich Flutter application designed to provide users with a fast and smooth flashlight experience. Built using Flutter with Provider architecture in mind, this app focuses on simplicity, responsiveness, and utility. It seamlessly integrates device flashlight control with additional enhancements like sound effects, vibration feedback, and external link handling. With a modern UI, custom fonts, and optimized performance, this app demonstrates my ability to build polished, real-world mobile utilities using Flutter.
 
-A new Flutter project.
+ Features
 
-## Getting Started
+Flashlight Control – Instantly toggle the device torch using the torch_light package.
 
-This project is a starting point for a Flutter application.
+Haptic Feedback – Subtle vibration response on button press using vibration.
 
-A few resources to get you started if this is your first Flutter project:
+Sound Effects – Clean switch-click sound using audioplayers.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Custom App Icon – Branded launcher icon built with flutter_launcher_icons.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Custom Fonts – UI styled with Poppins font for a modern look.
+
+Smooth UX – Minimalistic design with fast response time and lag-free toggle.
+
+Lightweight Project – Small, efficient, and easy to modify for other utility apps.
