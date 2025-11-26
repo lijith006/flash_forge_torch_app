@@ -1,21 +1,19 @@
-**Flash Forge - Torch App
-**
+🔦 Flash Forge – Torch App
 
+Flash Forge is a clean, modern, and lightweight Flutter-based torch application designed for users who want a fast and smooth flashlight experience. With a simple UI and responsive interactions, the app demonstrates effective use of Flutter’s ecosystem — integrating hardware access, sound effects, haptic feedback, and custom design elements. This project highlights my ability to build polished real-world utility apps with Flutter while focusing on clean architecture, performance, and user-friendly design.
 
-Torch App is a lightweight yet feature-rich Flutter application designed to provide users with a fast and smooth flashlight experience. Built using Flutter with Provider architecture in mind, this app focuses on simplicity, responsiveness, and utility. It seamlessly integrates device flashlight control with additional enhancements like sound effects, vibration feedback, and external link handling. With a modern UI, custom fonts, and optimized performance, this app demonstrates my ability to build polished, real-world mobile utilities using Flutter.
+✨ Features
 
- Features
+🔥 Instant Torch Control – Toggle the device flashlight instantly using the torch_light package.
 
-Flashlight Control – Instantly toggle the device torch using the torch_light package.
+📳 Haptic Feedback – Smooth and subtle vibration response for enhanced interaction.
 
-Haptic Feedback – Subtle vibration response on button press using vibration.
+🎧 Sound Effects – Click sound on toggle using audioplayers for a realistic switch feel.
 
-Sound Effects – Clean switch-click sound using audioplayers.
+🖼️ Custom App Icon – Professionally designed launcher icon generated via flutter_launcher_icons.
 
-Custom App Icon – Branded launcher icon built with flutter_launcher_icons.
+🔤 Custom Fonts (Poppins) – Clean and modern typography for a polished UI.
 
-Custom Fonts – UI styled with Poppins font for a modern look.
+⚡ Smooth User Experience – Fast response time, zero lag, and minimalistic interface.
 
-Smooth UX – Minimalistic design with fast response time and lag-free toggle.
-
-Lightweight Project – Small, efficient, and easy to modify for other utility apps.
+🪶 Lightweight Build – Small, efficient project with clean code, easy to extend or modify.
